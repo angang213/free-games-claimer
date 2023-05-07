@@ -135,7 +135,7 @@ Epic Games usually has two free games *every week*, before Christmas every day.
 Prime Gaming has new games *every month* or more often during Prime days.
 GOG usually has one new game every couples of weeks.
 
-It is save to run the scripts every day.
+It is safe to run the scripts every day.
 
 #### How to schedule?
 The container/scripts will claim currently available games and then exit.
